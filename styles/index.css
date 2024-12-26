@@ -43,7 +43,7 @@
     position: absolute; left: 281px; top: 246px; width: 502px;
     border: 15px solid #FBF6E9; border-radius: 20px;
 }
-#wrap main .welcome_wrap .right_text {text-align: right;width: 413px;}
+#wrap main .welcome_wrap .right_text {text-align: right; width: 413px;}
 #wrap main .welcome_wrap .right_text h2 {
     margin-bottom: 92px;font-size:2rem; line-height:1.5; letter-spacing:-0.02em; font-weight:700;
     color: #4B5413;
